@@ -1,2 +1,5 @@
 1. Decide which business to order from
 2. Choose between the only good options, Cheeseburger or BBQ with pineapple.
+3. Pay for pizza
+4. Wait for delivery
+5. Recieve delivery
