@@ -5,3 +5,4 @@
 5. Calculate tip 
 6. Recieve delivery
 7. Tip pizza dude 
+8. Destroy the world
