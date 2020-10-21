@@ -4,4 +4,4 @@
 4. Wait for delivery
 5. Calculate tip 
 6. Recieve delivery
-7. Tip pizza dude
+7. Tip pizza dude 
