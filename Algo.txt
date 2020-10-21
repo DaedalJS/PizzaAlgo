@@ -3,4 +3,4 @@
 3. Pay for pizza
 4. Wait for delivery
 5. Calculate tip 
-5. Recieve delivery
+6. Recieve delivery
