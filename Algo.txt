@@ -2,5 +2,6 @@
 2. Choose between the only good options, Cheeseburger or BBQ with pineapple.
 3. Pay for pizza
 4. Wait for delivery
-5. Recieve delivery
-6. Tip pizza dude
+5. Calculate tip 
+6. Recieve delivery
+7. Tip pizza dude
